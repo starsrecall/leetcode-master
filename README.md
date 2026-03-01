@@ -94,7 +94,7 @@
     * [关于空间复杂度，可能有几个疑问？](./problems/前序/空间复杂度.md)
     * [递归算法的时间与空间复杂度分析！](./problems/前序/递归算法的时间与空间复杂度分析.md)
     * [刷了这么多题，你了解自己代码的内存消耗么？](./problems/前序/内存消耗.md)
-</details>
+    </details>
 
 <details>
 <summary><b>数组</b></summary>
@@ -109,7 +109,7 @@
 7. [数组：开发商购买土地](./problems/kamacoder/0044.开发商购买土地.md)
 8. [数组：59.螺旋矩阵II](./problems/0059.螺旋矩阵II.md)
 9. [数组：总结篇](./problems/数组总结篇.md)
-</details>
+  </details>
 
 <details>
 <summary><b>链表</b></summary>
